@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+		<!-- Banner -->
+			<section id="banner" style='padding: 12em 0 15em 0;'>
+				<h2>Papiers de cul</h2>
+				<p>Histoires qu'on nous raconte <br/>et que nous décryptons pour vous
+				<br/>	
+
+				<img src=/theme/images/wilson.png width=64 />
+				<img src=/theme/images/cassandra.png width=64 />
+				</p>
+			</section>
+
+
+		<!-- Main -->
+
+			<section id="main" class="container">
+		
+				<section class="box special">
+					<header class="major">
+			
+		{% set article=articles_page.object_list[0] %}
+
+						<h2>Notre dernière histoire
+						<br />
+						{{article.title}}</h2>
+						<p>{{article.summary}}</p>
+								
+
+						{% for coach in article.coach %}
+							{% if coach != '***' %}		
+							<img src=theme/images/{{coach}} width=64 />
+							{% endif %}
+						{% endfor %}
+						
+						<ul class="actions">
+								<li><a href="{{article.url}}" class="button alt">Lire l'histoire</a></li>
+						</ul>
+
+					</header>
+					<span class="image featured"><img src="theme/images/{{article.imagetitle}}" alt="" /></span>
+				</section>
+				<section class="box special features">
+					<div class="features-row">
+						<section>
+							<span class="icon major fa-send accent2"></span>
+							<h3>Vos histoires !</h3>
+							<p>Envoyez vos histoires à nos coachs !</p>
+						</section>
+						<section>
+							<span class="icon major fa-camera-retro accent3"></span>
+							<h3>Quoi ici ?</h3>
+							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+						</section>
+					</div>
+					<div class="features-row">
+						<section>
+							<span class="icon major fa-venus-mars accent4"></span>
+							<h3>Quoi  ici ? liens autres blogs ?</h3>
+							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+						</section>
+						<section>
+							<span class="icon major fa-plug accent5"></span>
+							<h3>Trouver l'âme soeur !</h3>
+							<p>Ici pub ??? ipso lorem.</p>
+						</section>
+					</div>
+				</section>
+
+				<div class="row">
+						
+				{% for article in articles_page.object_list %}
+
+					{% if loop.index != 1 %}
+						
+							<div class="6u">
+
+								<section class="box special">
+									<span class="image featured"><img src="theme/images/{{article.imagetitle}}" alt="" /></span>
+									<h3>{{article.title}}</h3>
+									<p>{{article.summary}}
+									<br/>
+									
+										{% for coach in article.coach %}
+											{% if coach != '***' %}		
+											<img src=theme/images/{{coach}} width=64 />
+											{% endif %}
+										{% endfor %}
+
+									</p>
+									<ul class="actions">
+										<li><a href="{{article.url}}" class="button alt">Lire l'histoire</a></li>
+									</ul>
+								</section>
+								
+							</div>
+					
+
+
+
+
+					{% endif %}
+
+				{% endfor %}
+				</div>
+				
+					
+			</section>
+			
+
+
+{% endblock %}
