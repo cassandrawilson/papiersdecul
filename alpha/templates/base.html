@@ -31,7 +31,22 @@
 				<h1><a href="/">Chez Cassandra & Wilson</a></h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="/">Papiers de cul</a></li>
+						<li><a href="" class fa-angle-down">Dernières histoires</a>
+							<ul>
+							{% for article in articles %}
+								<li><a href="{{article.url}}">{{article.title|truncate(25, True, end='...')}}</a></li>
+							{% endfor %}
+							</ul>
+						</li>
+						<li><a href="">Papiers de cul</a>
+							<ul>
+								<li><a href="/">Accueil</a></li>	
+								<li><a href="/pages/nos-coachs.html">Nos coachs</a></li>
+								<li><a href="/pages/a-propos.html">A propos</a></li>
+							</ul>	
+
+						</li>
+						
 						<!--
 						<li>
 							<a href="" class="icon fa-angle-down">Layouts</a>
@@ -93,5 +108,6 @@
 				</ul>
 			</footer>
 
+	{% include 'analytics.html' %}		
 	</body>
 </html>
