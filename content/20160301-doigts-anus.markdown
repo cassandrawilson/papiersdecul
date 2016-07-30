@@ -1,4 +1,4 @@
-Title: Un doig dans l'anus
+Title: Un doigt dans l'anus
 Date: 2016-01-01  
 Category: Coaching
 Tags: anal doigts
