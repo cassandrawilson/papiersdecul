@@ -1366,6 +1366,9 @@
 	#cta {
 		background-image: url("images/overlay.png"), url("../images/banner.jpg");
 		/*background: #e89980;*/
+		background-position: top left,						center center;
+		background-repeat: repeat,							no-repeat;
+		background-size: auto,							cover;
 		color: #f9e5df;
 		padding: 3.5em 0 4em 0;
 		text-align: center;

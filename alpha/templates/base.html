@@ -6,10 +6,12 @@
 -->
 <html>
 	<head>
-		<title>Papiers de cul</title>
+		{% block title %}
+			<title>Papiers de cul</title>
+		{% endblock %}
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="histoires érotiques que nos coachs décortiquent" />
+		<meta name="keywords" content="histoire érotique, apprendre ensemble" />
 		<!--[if lte IE 8]><script src="/theme/css/ie/html5shiv.js"></script><![endif]-->
 		<script src="/theme/js/jquery.min.js"></script>
 		<script src="/theme/js/jquery.dropotron.min.js"></script>
@@ -43,30 +45,13 @@
 								<li><a href="/">Accueil</a></li>	
 								<li><a href="/pages/nos-coachs.html">Nos coachs</a></li>
 								<li><a href="/pages/a-propos.html">A propos</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScJOiIlJJ_rIs6zgFWb-xC2k_42yL8hDYAMkDGdsFGW74IvAw/viewform">Envoyer vos histoires</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaoWAOCYW8Nj_miOn6yWKTggwzXbsbkL5HeVkyQDhVWAPUiw/viewform">Contact</a>
+								</li>
+								<li><a href=/tags.html>Tags</a></li>
 							</ul>	
 
 						</li>
-						
-						<!--
-						<li>
-							<a href="" class="icon fa-angle-down">Layouts</a>
-							<ul>
-								<li><a href="generic.html">Generic</a></li>
-								<li><a href="contact.html">Contact</a></li>
-								<li><a href="elements.html">Elements</a></li>
-								<li>
-									<a href="">Submenu</a>
-									<ul>
-										<li><a href="#">Option One</a></li>
-										<li><a href="#">Option Two</a></li>
-										<li><a href="#">Option Three</a></li>
-										<li><a href="#">Option Four</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						-->
-						<!--<li><a href="#" class="button">Sign Up</a></li>-->
 					</ul>
 				</nav>
 			</header>
@@ -78,36 +63,27 @@
 			<section id="cta">
 				
 				<h2>Nous envoyer vos histoires</h2>
-				<p>Nos coachs.... Nous gardons votre anonymat si vous le souhaitez (changement de prénom), et uniquement un prénom apparaît.</p>
+				<p>Si vous souhaitez nous raconter votre histoire, nous serons heureux de la publier sur http://papiersdecul.fr <br/>et nous demanderons à nos coachs, Cassandra & Wilson de nous donner leur vision dessus, <br/>pour apprendre ensemble. Merci en tous cas pour votre temps.</p>
 				
-				<form>
-					<div class="row uniform half collapse-at-2">
-						<div class="8u">
-							<input type="email" name="email" id="email" placeholder="Email Address" />
-						</div>
-						<div class="4u">
-							<input type="submit" value="Sign Up" class="fit" />
-						</div>
-					</div>
-				</form>
+				<p>
 				
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLScJOiIlJJ_rIs6zgFWb-xC2k_42yL8hDYAMkDGdsFGW74IvAw/viewform
+						" class="button alt">Notre formulaire pour vos histoires</a>
+						
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSeaoWAOCYW8Nj_miOn6yWKTggwzXbsbkL5HeVkyQDhVWAPUiw/viewform" class="button alt">Contact</a>
+				</p>				
 			</section>
 			
 		<!-- Footer -->
 			<footer id="footer">
-				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-					<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-				</ul>
 				<ul class="copyright">
 					<li>&copy; Papiers de cul. Cassandra & Wilson</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
+				<br/>
+				{% include 'cc.html' %}
 			</footer>
 
-	{% include 'analytics.html' %}		
+		{% include 'analytics.html' %}		
+	
 	</body>
 </html>

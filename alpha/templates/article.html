@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% block title %}
+	<title>{{article.title|striptags}}</title>
+{% endblock %}
 {% block content %}
 
 		<!-- Banner -->
@@ -17,9 +20,16 @@
 				<div class="box">
 					<span class="image featured"><img src="/theme/images/{{article.imagetitle}}" alt="" /></span>
 					{{article.content}}
+					<hr/>
+						<p>	
+						{% for tag in article.tags %}
+								<a href=/tag/{{tag}}.html>#{{tag}}</a>
+						{% endfor %}			
+						</p>	
+
 				</div>
 			</section>
-		
+			
 		<section>
 				<div class="box">
 
