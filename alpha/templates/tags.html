@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}
+	<title>Papiers de cul | Tags </title>
+{% endblock %}
+{% block content %}
+
+		<!-- Banner -->
+			<section id="banner" style='padding: 8em 0 8em 0;'>
+			</section>
+
+		<!-- Main -->
+			<section id="main" class="container">
+			<section class="box special">
+				<header class="major">
+					<h2>Mots clefs / Tags</h2>
+					<p>Attrape moi si tu peux..</p>
+				</header>
+			</section>	
+			<section>
+				<div class="box">
+					<span class="image featured"><img src="/theme/images/main.jpg" alt="" /></span>
+
+    					<table>
+							<thead>
+								<tr>
+									<th>Tags</th>
+									<th>Présence</th>
+								</tr>
+							</thead>
+							<tbody>
+								{%- for tag, articles in tags|sort %}
+								<tr>
+									<td><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></td>
+									<td>{{ articles|count }}</td>
+								</tr>
+								{% endfor %}
+								
+							</tbody>
+						</table>			
+				</div>
+			</section>
+	</section>
+			
+{% endblock %}

@@ -36,15 +36,7 @@ Je ne sais plus exactement ensuite qui a joui et comment, je ne sais plus dans q
 
 ![alt text](/theme/images/wilson.png "Wilson"){:class='image left'}
 
-Bonjour chère inconnue, merci pour ce texte, qui je dois l'avouer me donne plus envie de me caresser que de vous répondre. Mais d'abord quelques détails techniques, si c'est un inconnu, enfin une personne que vous ne connaissez que très peu, cela risque comme vous le décrivez si bien de vous exciter comme une folle, et de vous faire mouiller à tout rompre, mais n'oubliez pas les préservatifs. Je sais je casse un peu l'ambiance. Peut-être que l'humidité du sauna vous a fait imaginer qu'elle allait lubrifier de façon extra vos muqueuses, mais non, cette humidité est externe, et c'est bien votre excitation qui vous a toute mouillée. Donc n'hésitez pas à prendre un préservatif au cas ou, pour la lubrification, et pour les risques... D'autant que quand vous écrivez qu'il vous a pris par derrière j'ai d'abord cru qu'il vous avait sodomisé. Mais ce n'était pas le cas. Je suis presque un peu déçue. Se faire sodomiser par un comptable, ça y est bon sang, je mouille aussi. La prochaine fois essayez donc s'il vous plaît. 
+Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire.
 
-###L'inconnu et la crainte d'être surprise, deux atouts maîtres
 
-Je ne sais pas si l'occasion se représentera mais tous ces jeux sur le fait de ne pas se connaître et pourtant de mêler ces corps sont diablement excitants. Mon conseil c'est continuer à ne pas trop chercher à en savoir plus et profiter de ces moments avec un inconnu en quelque sorte qui vous domine, vous prend, vous lèche, vous encule de temps en temps au boulot.  
-
-C'est pareil pour la crainte de voir une personne arriver et interférer avec vos ébats. Rien n'est moins excitant. Au contraire je vous dirais de laisser la porte ouverte. De ne pas hésiter à laisser vos plaintes se répandre dans les couloirs. Qui sait l'agent de sécurité pourrait venir se mêler à vous la prochaine fois ? Avez vous déjà eu deux hommes en train de vous lécher ? Je vous le conseille. 
-
-Vous pourriez même rendre fou votre comptable en entrant dans le sauna avec un autre homme. Qui sait de quoi alors il serait capable ? 
-
-À bientôt pour nous raconter cela !
-
+Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire**

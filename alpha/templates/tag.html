@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}
+	<title>Papiers de cul | {{ tag }} </title>
+{% endblock %}
+{% block content %}
+
+		<!-- Banner -->
+			<section id="banner" style='padding: 8em 0 8em 0;'>
+			</section>
+
+		<!-- Main -->
+			<section id="main" class="container">
+			<section class="box special">
+				<header class="major">
+					<h2> { {{ tag }} }</h2>
+					<p>Voir les autres <a href=/tags.html>tags</a></p>
+				</header>
+			</section>	
+			<section>
+				<div class="box">
+					<span class="image featured"><img src="/theme/images/doigt.jpg" alt="" /></span>
+
+						<h3>Les histoires concernées par ce tag: </h3>
+						<ul>
+						{% for article in articles %}	
+							<li><a href={{article.url}}>{{article.title}}</a></li>
+						{% endfor %}
+						</ul>	
+			
+				</div>
+			</section>
+	</section>
+			
+{% endblock %}
