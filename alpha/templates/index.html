@@ -5,9 +5,10 @@
 			<section id="banner" style='padding: 10em 0 12em 0;'>
 				<h2>Papiers de cul</h2>
 				<p>Histoires que l'on nous raconte <br/>pour apprendre ensemble.
-				<br/>	
-				<img src=/theme/images/wilson.png width=64 />
-				<img src=/theme/images/cassandra.png width=64 />
+					<div style='clear:both'>	
+						<img src=/theme/images/wilson.png width=64 />
+						<img src=/theme/images/cassandra.png width=64 />
+					</div>
 				</p>
 			</section>
 
@@ -20,18 +21,22 @@
 			
 		{% set article=articles_page.object_list[0] %}
 
-						<h2>Notre dernière histoire :
-						<br />
-						{{article.title}}</h2>
-						<p>{{article.summary|truncate(333, True, end='...')}}</p>
-								
-
+						<h3>Notre dernière histoire :</h3>
+						<h2>{{article.title}}</h2>
+						{{ article.date|strftime('%d %B %Y') }}
+						{{article.summary|truncate(333, True, end='...')}}
+						
+						<br clear=all />
+						<div style='clear:both'>
 						{% for coach in article.coach %}
 							{% if coach != '***' %}		
-							<img src=theme/images/{{coach}} width=64 />
+							
+								<img src=theme/images/{{coach}} />
+
 							{% endif %}
 						{% endfor %}
-						
+						</div>
+						<br/>
 						<ul class="actions">
 								<li><a href="{{article.url}}" class="button alt">Lire l'histoire</a></li>
 						</ul>
@@ -44,24 +49,24 @@
 						<section>
 							<span class="icon major fa-send accent2"></span>
 							<h3>Vos histoires !</h3>
-							<p>Envoyez vos histoires à nos coachs !</p>
+							<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScJOiIlJJ_rIs6zgFWb-xC2k_42yL8hDYAMkDGdsFGW74IvAw/viewform">Envoyez vos histoires à nos coachs !</a></p>
 						</section>
 						<section>
-							<span class="icon major fa-camera-retro accent3"></span>
-							<h3>Quoi ici ?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<span class="icon major fa-plug accent3"></span>
+							<h3>Les blogs</h3>
+							<p><a href="/pages/blogs.html">Ceux des voisins, des copains, ceux qui nous plaisent</a></p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
-							<span class="icon major fa-venus-mars accent4"></span>
-							<h3>Quoi  ici ? liens autres blogs ?</h3>
-							<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+							<span class="icon major fa-camera-retro accent4"></span>
+							<h3>La photo du mois</h3>
+							<p>La photo qui a retenue notre attention ce mois ci est de <strong>Lars Sero</strong>, et elle est <a href=http://larssero.tumblr.com/image/145372711175>ici</a></p>
 						</section>
 						<section>
-							<span class="icon major fa-plug accent5"></span>
+							<span class="icon major fa-venus-mars accent5"></span>
 							<h3>Trouver l'âme soeur !</h3>
-							<p>Ici pub ??? ipso lorem.</p>
+							<p>Notre conseil rencontre du mois : ...il reste à définir ! On creuse la question.</p>
 						</section>
 					</div>
 				</section>
@@ -77,7 +82,8 @@
 								<section class="box special">
 									<span class="image featured"><img src="theme/images/{{article.imagetitle}}" alt="" /></span>
 									<h3>{{article.title}}</h3>
-									<p>{{article.summary|truncate(144, True, end='...')}}
+									{{ article.date|strftime('%d %B %Y') }}
+									{{article.summary|truncate(144, True, end='...')}}
 									<br/>
 									
 										{% for coach in article.coach %}

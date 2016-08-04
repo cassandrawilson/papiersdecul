@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}
-	<title>{{article.title|striptags}}</title>
+	<title>{{article.title|striptags}} | Papiers de cul</title>
 {% endblock %}
 {% block content %}
 
@@ -13,7 +13,8 @@
 			<section class="box special">
 				<header class="major">
 					<h2>{{ article.title }}</h2>
-					<p>{{ article.summary }}</p>
+					{{ article.date|strftime('%d %B %Y') }}
+					{{ article.summary |truncate(333, True, end='...')}}
 				</header>
 			</section>	
 			<section>
@@ -29,44 +30,24 @@
 
 				</div>
 			</section>
-			
-		<section>
-				<div class="box">
-
-				<div class="12u">
-				<div class="row">
-
-							<div class="4u 8u(mobilep)">
-								
-								<div>
-								<h3>En direct en ce moment</h3><div class="textwidget"><a href="http://chaturbate.com/affiliates/in/" rel="nofollow" target="_blank"><img src="/theme/images/gif/live-cam-porno.gif" alt="Webcam porno gratuites en direct !" border="0"></a></div>
-								</div>
-
-							</div>
-
-							<div class="4u 8u(mobilep)">
-								<div>
-								<h3>Plans cul</h3>
-								<p>
-								{% include 'annonceurs/annon1.html' %}
-								</p>
-								</div>
-							</div>
-
-
-							<div class="4u 8u(mobilep)">
-								<h3>Webcam</h3>
-								
-								<a href="" target="_blank" alt="plan cul hard gratuit" rel="nofollow"><img src="/theme/images/gif/20070330150706_160x600_5.gif" alt="plan cul hard gratuit" border="0"></a>
-
-							</div>
-						
-				</div>					
-				</div>
-				</div>
-			</section>
-
 		</section>
 
+{% endblock %}
+
+
+
+{% block autresarticles %}
+		<br/>
+		<section class=container>
+		<div class="box">
 			
+			<h3>Les derniers articles</h3>
+			<ul>
+				{% for article in articles %}
+					<li><a href="{{article.url}}">{{article.title}}</a></li>
+				{% endfor %}
+			</ul>
+			</div>
+		</section>
+
 {% endblock %}

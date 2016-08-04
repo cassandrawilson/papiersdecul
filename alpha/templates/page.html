@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}
-	<title>{{page.title|striptags}}</title>
+	<title>{{page.title|striptags}} | Papiers de cul</title>
 {% endblock %}
 {% block content %}
 
@@ -26,4 +26,21 @@
 			</section>
 	</section>
 			
+{% endblock %}
+
+
+{% block autresarticles %}
+		<br/>
+		<section class=container>
+		<div class="box">
+			
+			<h3>Les derniers articles</h3>
+			<ul>
+				{% for article in articles %}
+					<li><a href="{{article.url}}">{{article.title}}</a></li>
+				{% endfor %}
+			</ul>
+			</div>
+		</section>
+
 {% endblock %}
