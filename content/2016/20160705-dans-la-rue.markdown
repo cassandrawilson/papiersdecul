@@ -35,7 +35,7 @@ Assez prêt pour m'imaginer des choses. J'ai un grand parquet. Je me demande si 
 
 Ahhh les femmes sans soutien gorge. C'est effectivement aussi excitant pour celui qui regarde que pour celle qui se sent regardée. Et puis cela révèle la véritable forme de la poitrine, souvent dissimulée derrière des armatures et des coques trompeuses. 
 
-Comme je vous comprends cher ami, et vous êtes chanceux, c'est apparemment une tendance qui s'empare des stars : [](http://www.closermag.fr/article/kendall-jenner-gigi-hadid-ces-stars-qui-sortent-sans-soutien-gorge-photos-647819). Continuez à regarder les femmes, on aime ça ! Continuez à fantasmer sur ce que peut voir la voisine... On fait pareil ! Et profitez donc de l'été et de ses révélations avant de voir toutes ces chairs renfiler un col roulé.
+Comme je vous comprends cher ami, et vous êtes chanceux, c'est apparemment une tendance qui s'empare des stars : [http://www.closermag.fr/article/kendall-jenner-gigi-hadid-ces-stars-qui-sortent-sans-soutien-gorge-photos-647819](http://www.closermag.fr/article/kendall-jenner-gigi-hadid-ces-stars-qui-sortent-sans-soutien-gorge-photos-647819). Continuez à regarder les femmes, on aime ça ! Continuez à fantasmer sur ce que peut voir la voisine... On fait pareil ! Et profitez donc de l'été et de ses révélations avant de voir toutes ces chairs renfiler un col roulé.
 
 
 

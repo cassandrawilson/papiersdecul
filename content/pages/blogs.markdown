@@ -6,7 +6,7 @@ Slug: blogs
 coach: cassandra.png
 coach: wilson.png
 Imagetitle: blogs.jpg
-Summary: Aller donc fouiner ailleurs. 
+Summary: Venez donc fouiner par ici si j'y suis. 
 
 ##Les blogs des voisins, les blogs qui nous plaisent. 
 

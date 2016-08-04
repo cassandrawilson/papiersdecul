@@ -45,7 +45,7 @@ Elle est repartie ainsi, le sourire aux lèvres, sans remettre sa culotte qu'ell
 
 ![alt text](/theme/images/cassandra.png "Cassandra"){:class='image left'}
 
-Cherchez pas c'est une escort ! (et c'est illégal !). 
+Cherchez pas c'est une escort ! (et c'est illégal !) 
 
 ![alt text](/theme/images/wilson.png "Wilson"){:class='image left'}
 
