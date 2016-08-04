@@ -1,5 +1,5 @@
 Title: Entretien entreprenant 
-Date: 2016-07-27  
+Date: 2016-07-18  
 Category: Coaching
 Tags: sperme, boulot, embauche, entretien, secretaire
 Slug: entretien-entreprenant
@@ -27,9 +27,9 @@ Wow. C'était tard et seulement quelques employés erraient dans les bureaux. Je
 
 ###Jouer le jeu
 
-*Qu'elles seraient vos prétention pour savoir tout faire ?*, je lui ai demandé comme si l'entretien continuait normalement. 
+*Qu'elles seraient vos prétentions pour savoir tout faire ?*, je lui ai demandé comme si l'entretien continuait normalement. 
 
-Elle m'a donné un tarif ridiculement bas, puis s'est mise à genoux, a consciencieusement ouverte ma braguette pour en sortir mon sexe, bien raide, tendu par mon pantalon. En caressant mon gland de sa langue elle a ajouté : *Qu'est ce qui me permettrait d'avoir une prime ?*. *Sûrement pas cela, cela fait partie de la fonction, demoiselle, mais laissez moi examiner vos références voir si j'y décèle des compétences inexploitées*. C'est alors que je l'ai posé sur la table tout en tenant l'une de ses jambes en l'air. Je lui ai enfoncé mon sexe et j'ai léché cette cuisse, puis j'ai caressé cette jambe avec application jusqu'à atteindre son clitoris. Finalement je reprenais le dessus, avec mes aller/retour et mes doigts qui excitaient son petit bouton. Ses lèvres ouvertes laissaient passer mon sexe sans rien freiner. Son vagin s’entrouvrait avec délectation. Elle mouillait copieusement. Ses lèvres fines accueillaient mon gland avec joie. Avec sa jambe levée, je me sentais bien frotter en elle. 
+Elle m'a donné un salaire ridiculement bas, puis s'est mise à genoux, a consciencieusement ouverte ma braguette pour en sortir mon sexe, bien raide, tendu par mon pantalon. En caressant mon gland de sa langue elle a ajouté : *Qu'est ce qui me permettrait d'avoir une prime ?*. *Sûrement pas cela, cela fait partie de la fonction, demoiselle, mais laissez moi examiner vos références voir si j'y décèle des compétences inexploitées*. C'est alors que je l'ai posé sur la table tout en tenant l'une de ses jambes en l'air. Je lui ai enfoncé mon sexe et j'ai léché cette cuisse, puis j'ai caressé cette jambe avec application jusqu'à atteindre son clitoris. Finalement je reprenais le dessus, avec mes aller/retour et mes doigts qui excitaient son petit bouton. Ses lèvres ouvertes laissaient passer mon sexe sans rien freiner. Son vagin s’entrouvrait avec délectation. Elle mouillait copieusement. Ses lèvres fines accueillaient mon gland avec joie. Avec sa jambe levée, je me sentais bien frotter en elle. 
 
 ![alt text](/theme/images/2016/07/entretien-irina.gif "Entretien Irina"){:class='image right'}
 
@@ -45,8 +45,7 @@ Elle est repartie ainsi, le sourire aux lèvres, sans remettre sa culotte qu'ell
 
 ![alt text](/theme/images/cassandra.png "Cassandra"){:class='image left'}
 
-Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire**
-
+Cherchez pas c'est une escort ! (et c'est illégal !). 
 
 ![alt text](/theme/images/wilson.png "Wilson"){:class='image left'}
 

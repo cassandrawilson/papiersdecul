@@ -36,7 +36,11 @@ Je ne sais plus exactement ensuite qui a joui et comment, je ne sais plus dans q
 
 ![alt text](/theme/images/wilson.png "Wilson"){:class='image left'}
 
-Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire. Texte de **wilson** à faire.
+Salut confrère,
 
+Votre expérience avec ces deux femmes s'est plutôt remarquablement bien passée. On ne peut pas dire ça de tout le monde. Il y a de quoi perdre ses moyens quand on est à deux doigts de réaliser un de ses fantasmes. Ou de suivre le fantasme de son/sa partenaire, comme c'est le cas dans votre histoire. 
 
-Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire** Texte de cassandra **à faire**
+Cette perte dont vous parlez, au milieu de ces deux corps... Cela donne envie !
+
+Je vous recommanderais de recommencer régulièrement ce genre de virée avec votre "Elodie". Surtout si elle apprécie autant que vous. Mais attention, tout peut virer selon le choix du/de la partenaire. Et attention aussi à continuer d'égayer vos parties de jambes en l'air en solo avec votre compagne, au risque de vous lasser et de ne considérer le plaisir qu'à trois.
+

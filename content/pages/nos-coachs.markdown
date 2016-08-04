@@ -10,7 +10,7 @@ Summary: Qui sont nos coachs ?
 
 ##Qui sont nos coachs ? 
 
-Nos coachs sont vraiment deux coachs dans la vraie vie. Ils aiment autant lire vos histoires que de s'en inspirer pour leurs propres aventures, apprendre avec vous, vous faire part de leurs propres apprentissages. 
+Nos coachs sont vraiment deux coachs dans la vie. Ils aiment autant lire vos histoires que de s'en inspirer pour leurs propres aventures, apprendre avec vous, vous faire part de leurs propres apprentissages. 
 
 ---
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScJOiIlJJ_rIs6zgFWb-xC2k_42yL8hDYAMkDGdsFGW74IvAw/viewform
