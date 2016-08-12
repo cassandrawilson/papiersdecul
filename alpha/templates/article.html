@@ -21,6 +21,10 @@
 				<div class="box">
 					<span class="image featured"><img src="/theme/images/{{article.imagetitle}}" alt="" /></span>
 					{{article.content}}
+					
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLSeb_c_LJpAMRr8uSBmJWH9bUWWbDtxrngG-Hj5j7ywfXin5aA/viewform" class="button alt">Laisser un commentaire</a>
+
+
 					<hr/>
 						<p>	
 						{% for tag in article.tags %}
@@ -38,16 +42,5 @@
 
 {% block autresarticles %}
 		<br/>
-		<section class=container>
-		<div class="box">
-			
-			<h3>Les derniers articles</h3>
-			<ul>
-				{% for article in articles %}
-					<li><a href="{{article.url}}">{{article.title}}</a></li>
-				{% endfor %}
-			</ul>
-			</div>
-		</section>
-
+		{% include 'derniersarticles.html' %}
 {% endblock %}

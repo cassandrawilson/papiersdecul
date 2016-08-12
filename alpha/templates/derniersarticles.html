@@ -1,0 +1,14 @@
+
+		<section class=container>
+		<div class="box">
+			
+			<h3>Les derniers articles</h3>
+			<ul>
+				{% for article in articles[:5] %}
+					<li><a href="{{article.url}}">{{article.title}}</a></li>
+				{% endfor %}
+			</ul>
+
+			La boite de pandore : les <a href=/archives.html>archives</a>. 
+			</div>
+		</section>

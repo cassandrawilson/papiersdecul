@@ -35,8 +35,10 @@
 					<ul>
 						<li><a href="" class fa-angle-down">Dernières histoires</a>
 							<ul>
-							{% for article in articles %}
+							{% for article in articles[:3] %}
+
 								<li><a href="{{article.url}}">{{article.title|truncate(25, True, end='...')}}</a></li>
+
 							{% endfor %}
 							</ul>
 						</li>
@@ -48,7 +50,8 @@
 								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScJOiIlJJ_rIs6zgFWb-xC2k_42yL8hDYAMkDGdsFGW74IvAw/viewform">Envoyer vos histoires</a></li>
 								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaoWAOCYW8Nj_miOn6yWKTggwzXbsbkL5HeVkyQDhVWAPUiw/viewform">Contact</a>
 								</li>
-								<li><a href=/tags.html>Tags</a></li>
+								<!--<li><a href=/tags.html>Tags</a></li>-->
+								<li><a href=/archives.html>Archives</a></li>
 							</ul>	
 
 						</li>
@@ -82,7 +85,7 @@
 					<p>
 					<a href="/">Accueil</a> | <a href="/pages/nos-coachs.html">Nos coachs</a> | 
 					<a href="/pages/a-propos.html">A propos</a> | <a href=/tags.html>Tags</a> | 
-					<a href=/pages/blogs.html>Blogs</a>
+					<a href=/pages/blogs.html>Blogs</a> | <a href=/archives.html>Archives</a>
 					</p>			
 
 

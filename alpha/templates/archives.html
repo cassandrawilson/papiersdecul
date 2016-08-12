@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}
+	<title>Archives | Papiers de cul</title>
+{% endblock %}
+{% block content %}
+
+		<!-- Banner -->
+			<section id="banner" style='padding: 8em 0 8em 0;'>
+			</section>
+
+		<!-- Main -->
+			<section id="main" class="container">
+			<section class="box special">
+				<header class="major">
+					<h2>Archives</h2>
+					<p>Ouvre la boite de Pandore</p>
+				</header>
+			</section>	
+			<section>
+				<div class="box">
+					<span class="image featured"><img src="/theme/images/archives.jpg" alt="" /></span>
+					<h2>Nos histoires</h2>
+
+					<ul>
+					{% for article in dates %}
+					    <li><a href="{{ article.url }}"><strong>{{ article.title }}</strong></a> 
+					    { {{ article.locale_date }} } </li>
+					{% endfor %}
+					</ul>
+				
+				</div>
+			</section>
+	</section>
+			
+{% endblock %}
+
