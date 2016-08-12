@@ -1,7 +1,7 @@
-Title: Cadeau anniversaire
+Title: Cadeau d'anniversaire
 Date: 2016-07-18  
 Category: Coaching
-Tags: godemiché, dildo
+Tags: godemiché, dildo, concombre, masturbation
 Slug: cadeau-anniversaire
 Coach: cassandra.png
 Coach: ***

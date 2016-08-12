@@ -1,6 +1,6 @@
 Title: Deux femmes
 Date: 2016-07-28
-Tags: deux, femmes, poire, table 
+Tags: deux, femme, poire, table, lèvre, poitrine, sein, sodomie  
 Slug: deux-femmes
 coach: wilson.png
 coach: ***
