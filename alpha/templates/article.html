@@ -2,6 +2,24 @@
 {% block title %}
 	<title>{{article.title|striptags}} | Papiers de cul</title>
 {% endblock %}
+{% block description %}
+{% set description="papiersdecul.fr >> "+article.summary|striptags|truncate(200, True, end='...') -%}
+	<meta name="description" content="{{description}}"/>
+{% endblock %}
+{% block keywords -%}
+{% set keywords="histoire erotique apprendre ensemble coach coaches coachs cul culs" %}
+{% for tag in article.tags -%}
+	{% if tag is defined -%}
+		{% set t = tag|string() -%} 
+		{% set keywords=t + " " + keywords -%}
+	{% endif -%}
+	{% if loop.last %}
+		<meta name="keywords" content="{{keywords}}" />
+	{% endif %}
+{% endfor %}
+{% endblock -%}
+
+
 {% block content %}
 
 		<!-- Banner -->
