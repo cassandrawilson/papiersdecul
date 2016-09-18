@@ -13,4 +13,12 @@ Summary: Venez donc fouiner par ici si j'y suis.
 * [Apollonia SaintClair](http://apolloniasaintclair.tumblr.com/) : chère Appolonia tu nous esgourdis. 
 * [Anne Archet et ses lubricités](http://archet.net/) : Chocolat, poésie, godemiché : la trilogie du plaisir autarcique.
 * [Comment séduire](http://commentseduire.net/) : Une mine de gif érotiques. 
-* [Lars Ero](http://larssero.tumblr.com/) : Ses photos sont magnifiques.  
+* [Art de Séduire](http://www.artdeseduire.com/) : on essaye, on lit, on regarde et on vous dit
+* [Lars Ero](http://larssero.tumblr.com/) : Ses photos sont magnifiques. 
+
+## Les comptes Twitter essentiels 
+
+* [661Had](https://twitter.com/661Had)
+* [Angel](https://twitter.com/wings37381) 
+* [M - FuckLadyLuck](https://twitter.com/FuckLadyLuck)
+

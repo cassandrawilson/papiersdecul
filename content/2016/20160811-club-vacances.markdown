@@ -5,7 +5,7 @@ Tags: sable, piscine, sodomie
 Slug: le-club
 Coach: wilson.png
 Coach: ***
-Imagetitle: 2016/08/club.jpg
+Imagetitle: 2016/08/club4.jpg
 Summary: Je passais 2 semaines de vacances dans un club en Grèce. J'étais partie avec un groupe d'amis. Mais visiblement nous n'avions pas les mêmes envies pour occuper notre temps. Eux adoraient découvrir les sites de la Grèce Antique sous 40 degrés. Moi je préférais m'essayer à de nouveaux genres littéraires au bord de la piscine à l'ombre. 
 
 ##40° à l'ombre
@@ -23,7 +23,7 @@ Un matin j'ai pris du plaisir à me glisser dans la piscine tout en sachant qu'i
 Ce n'est pas mon genre les hommes mariés mais tout chez cet homme éveillait en moi du désir.
 J'ai même poussé le vice en m'allongeant vers 11h sur le bord de la piscine, comme dans "swimming pool". A 5m de son emplacement. A m'imaginer qu'il viendrait venir me faire de l'ombre.
 
-![alt text](/theme/images/2016/08/club2.jpg "Le club"){:class='image left'}
+![alt text](/theme/images/2016/08/club.jpg "Le club"){:class='image left'}
 
 Nos regards se sont croisés plusieurs fois. Et je pense qu'il a vite vu qu'il pouvait me demander n'importe quoi.
 Un soir après le dîner, mes amis avaient décidé d'aller en boîte. Moi je prétextais un mal de tête. Aussitôt partis j'ai enfilé une robe légère et ai pris soin de retirer soutien gorge et culotte. Rien qu'en passant le pas de ma porte je sentais l'excitation monter. Mon sexe se contracter.
