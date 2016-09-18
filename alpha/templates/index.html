@@ -61,7 +61,8 @@
 						<section>
 							<span class="icon major fa-camera-retro accent4"></span>
 							<h3>La photo du mois</h3>
-							<p>La photo qui a retenue notre attention ce mois ci est de <strong>Lars Sero</strong>, et elle est <a href=http://larssero.tumblr.com/image/145372711175>ici</a></p>
+							<p>La photo qui a retenue notre attention ce mois ci est de <strong>Matt Schultz</strong>, et elle est <a href=http://slimpics.com/octopus-girl-art-sex.html>ici</a></p>
+
 						</section>
 						<section>
 							<!--<span class="icon major fa-venus-mars accent5"></span>
@@ -79,16 +80,15 @@
 				<div class="row">
 									
 				{% for article in articles_page.object_list %}
-
 					{% if loop.index != 1 %}
 						
 							<div class="6u">
 
 								<section class="box special">
-									<span class="image featured"><img src="theme/images/{{article.imagetitle}}" alt="" /></span>
+									<span class="image featured"><img src="theme/images/{{article.imagetitle}}" alt="" width=100% /></span>
 									<h3>{{article.title}}</h3>
 									{{ article.date|strftime('%d %B %Y') }}
-									{{article.summary|truncate(144, True, end='...')}}
+									{{article.summary|striptags|truncate(144, True, end='...')}}
 									<br/>
 									
 										{% for coach in article.coach %}
