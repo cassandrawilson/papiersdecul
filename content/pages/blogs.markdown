@@ -20,5 +20,5 @@ Summary: Venez donc fouiner par ici si j'y suis.
 
 * [661Had](https://twitter.com/661Had)
 * [Angel](https://twitter.com/wings37381) 
-* [M - FuckLadyLuck](https://twitter.com/FuckLadyLuck)
+* [M - FuckLadyLuck](https://twitter.com/JustLuck01)
 
